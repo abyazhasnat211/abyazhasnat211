@@ -1,7 +1,7 @@
-[!MasterHead](https://www.google.com/imgres?imgurl=https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b24a4b102399693.5f3571e2b7936.gif&imgrefurl=https://www.behance.net/gallery/102399693/Android-Dev-Challenge&tbnid=n9NFqsHCzGPW2M&vet=1&docid=LsHwQ30ZYdPDSM&w=1200&h=675&hl=en&source=sh/x/im)](https://abyazhasnat.io)
+[![MasterHead](https://www.google.com/imgres?imgurl=https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b24a4b102399693.5f3571e2b7936.gif&imgrefurl=https://www.behance.net/gallery/102399693/Android-Dev-Challenge&tbnid=n9NFqsHCzGPW2M&vet=1&docid=LsHwQ30ZYdPDSM&w=1200&h=675&hl=en&source=sh/x/im)](https://abyazhasnat211.io)
 <h1 align="center">Hi 👋, I'm Abyaz Hasnat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align=”right” alt=”Coding” width=“400” src=”https://www.google.com/imgres?imgurl=https://techneos.xyz/assets/img/web_development.gif&imgrefurl=https://techneos.xyz/web-development.php&tbnid=xSEJC-uHk4C1LM&vet=1&docid=mitqqo2GoNTc0M&w=1042&h=1042&hl=en&source=sh/x/im>
+<img align="right” alt="Coding” width=“400” src="https://www.google.com/imgres?imgurl=https://techneos.xyz/assets/img/web_development.gif&imgrefurl=https://techneos.xyz/web-development.php&tbnid=xSEJC-uHk4C1LM&vet=1&docid=mitqqo2GoNTc0M&w=1042&h=1042&hl=en&source=sh/x/im>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abyazhasnat211&label=Profile%20views&color=0e75b6&style=flat" alt="abyazhasnat211" /> </p>
