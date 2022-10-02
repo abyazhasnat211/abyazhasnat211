@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native & Data Structures and Alogorithms**
+
+- I'm looking to collaborate on OpenSource Projects.
 
 - 💬 Ask me about **Android , MEARN**
 
